@@ -1,15 +1,16 @@
 <div align="center">
 	<img src="icon.svg" alt="Logo" width="160" height="160">
+	
+<h1>A more robust solution can be found at <a href="https://https://github.com/sempitern0/barebone">Barebone template</a></h1>
 
 <h3 align="center">Indie Blueprint (WIP)</h3>
-
   <p align="center">
 	This blueprint includes essential features, optimized settings, and best practices to help you create amazing indie games
 	<br />
 	·
-	<a href="https://github.com/ninetailsrabbit/indie-blueprint/issues/new?assignees=ninetailsrabbit&labels=%F0%9F%90%9B+bug&projects=&template=bug_report.md&title=">Report Bug</a>
+	<a href="https://github.com/sempitern0/indie-blueprint/issues/new?assignees=sempitern0&labels=%F0%9F%90%9B+bug&projects=&template=bug_report.md&title=">Report Bug</a>
 	·
-	<a href="https://github.com/ninetailsrabbit/indie-blueprint/issues/new?assignees=ninetailsrabbit&labels=%E2%AD%90+feature&projects=&template=feature_request.md&title=">Request Features</a>
+	<a href="https://github.com/sempitern0/indie-blueprint/issues/new?assignees=sempitern0&labels=%E2%AD%90+feature&projects=&template=feature_request.md&title=">Request Features</a>
   </p>
 </div>
 
@@ -56,11 +57,11 @@
 
 # Other plugins 🎫
 
-- 💎 Create Match3 games with [Match3 Board](https://github.com/ninetailsrabbit/match3-board)
-- ⛰️ Generate procedural terrain with [Terrainy](https://github.com/ninetailsrabbit/Terrainy)
-- 🔘 Finite state machine with [FSM](https://github.com/ninetailsrabbit/node-finite-state-machine)
-- 🎲 Generate loot in your game with [Lootie](https://github.com/ninetailsrabbit/Lootie)
-- 🏠 Easily design and build basic 3D spaces with [Room creator](https://github.com/ninetailsrabbit/room-creator)
+- 💎 Create Match3 games with [Match3 Board](https://github.com/sempitern0/match3-board)
+- ⛰️ Generate procedural terrain with [Terrainy](https://github.com/sempitern0/Terrainy)
+- 🔘 Finite state machine with [FSM](https://github.com/sempitern0/node-finite-state-machine)
+- 🎲 Generate loot in your game with [Lootie](https://github.com/sempitern0/Lootie)
+- 🏠 Easily design and build basic 3D spaces with [Room creator](https://github.com/sempitern0/room-creator)
 
 ---
 
@@ -72,7 +73,7 @@ To better understand what branch to choose from for which Godot version, please 
 |[![GodotEngine](https://img.shields.io/badge/Godot_4.3.x_stable-blue?logo=godotengine&logoColor=white)](https://godotengine.org/)|`4.3`|`1.x`|
 |[![GodotEngine](https://img.shields.io/badge/Godot_4.4.x_stable-blue?logo=godotengine&logoColor=white)](https://godotengine.org/)|`main`|`1.x`|
 
-Go to the [template](https://github.com/ninetailsrabbit/indie-blueprint) and create a new repository from it
+Go to the [template](https://github.com/sempitern0/indie-blueprint) and create a new repository from it
 
 ![use_template](images/use_template.png)
 
@@ -86,49 +87,49 @@ This template contains fully functional modules individually. They can be disabl
 
 General utilities that does not belongs to a particular place and are sed as static classes that can be accessed at any time even if they are not in the scene tree.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-toolbox)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-toolbox)
 
 ## Audio
 
 Easily control game audio with features like volume adjustments, playlists, crossfading, and sound pools.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-audio)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-audio)
 
 ## Camera transition
 
 This camera transition system allows you to smoothly transition between 2D/3D cameras in your game.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-camera-transitioner)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-camera-transitioner)
 
 ## Scene transition
 
 This scene transitioner implifies scene switching in your Godot project, adding polish and visual flair to your game's level changes.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-scene-transition)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-scene-transition)
 
 ## Global clock
 
 Manipulate the day, hour, minutes and access this information globally in your game. Create a game-ready day & night system in no time and don't worry about it.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-global-clock)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-global-clock)
 
 ## Object pool
 
 The object pool pattern is a software creational design pattern that uses a set of initialized objects kept ready to use – a 'pool' – rather than allocating and destroying them on demand.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-pool)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-pool)
 
 ## RPG
 
 A set of components that can be used as basic building blocks for the construction of role playing games.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-rpg)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-rpg)
 
 ## Save
 
 This save system provides a convenient way to manage save files in your Godot project. It leverages the `SavedGame` resource, which can be extended for your specific game data.
 
-[Read the documentation](https://github.com/ninetailsrabbit/indie-blueprint-save)
+[Read the documentation](https://github.com/sempitern0/indie-blueprint-save)
 
 # Configuration ⚙️
 
